@@ -13,10 +13,6 @@ double sideC;
 
 double missingSide;
 
-double isoHeight;
-double isoBase;
-double isoLeg;
-
 double perim;
 double area;
 
